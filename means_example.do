@@ -47,8 +47,7 @@ pause
 
 *estimate the histogram for the estimated means.
 *does it look normal?
-histogram meanX
-pause
+
 
 *calculate 90% and 95% confidence intervals for 
 *each of the samples
